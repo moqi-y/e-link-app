@@ -12,14 +12,14 @@
 
 ## 项目预览
 
-预览效果保存在 `/static/img-view/` 目录下：
-![首页界面预览](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-1.png)           
+预览效果保存在 `/static/img-view/` 目录下：         
+![首页界面预览](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-1.png)
 ![蓝牙搜索界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-2.jpg)           
-![设备异常提示](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-3.png)           
+![设备异常提示](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-3.png)
 ![设备停止界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-4.png)           
-![设备详情页](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-5.png)     
+![设备详情页](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-5.png)
 ![设备控制界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-6.png)           
-![设备控制界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-7.png)               
+![设备控制界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-7.png)
 ![设备控制界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-8.png)           
 
 ## 项目结构
