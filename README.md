@@ -10,9 +10,7 @@
 - **Node 版本**: v22.21.1
 - **UI 组件库**: vue-icons-plus
 
-## 项目预览
-
-预览效果保存在 `/static/img-view/` 目录下：         
+## 项目预览         
 <table style="width: 100%; border-collapse: collapse;boder:0">
   <tr>
     <td style="width: 50%; padding: 5px;">
