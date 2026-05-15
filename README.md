@@ -13,14 +13,40 @@
 ## 项目预览
 
 预览效果保存在 `/static/img-view/` 目录下：         
-![首页界面预览](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-1.png)
-![蓝牙搜索界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-2.png)           
-![设备异常提示](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-3.png)
-![设备停止界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-4.png)           
-![设备详情页](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-5.png)
-![设备控制界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-6.png)           
-![设备控制界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-7.png)
-![设备控制界面](https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-8.png)           
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-1.png" alt="首页界面预览" style="width: 100%;">
+    <p align="center"><strong>首页界面预览</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-2.png" alt="蓝牙搜索界面" style="width: 100%;">
+    <p align="center"><strong>蓝牙搜索界面</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-3.png" alt="设备异常提示" style="width: 100%;">
+    <p align="center"><strong>设备异常提示</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-4.png" alt="设备停止界面" style="width: 100%;">
+    <p align="center"><strong>设备停止界面</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-5.png" alt="设备详情页" style="width: 100%;">
+    <p align="center"><strong>设备详情页</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-6.png" alt="设备控制界面" style="width: 100%;">
+    <p align="center"><strong>设备控制界面</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-7.png" alt="设备控制界面" style="width: 100%;">
+    <p align="center"><strong>设备控制界面</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://github.com/moqi-y/e-link-app/blob/master/static/img-view/image-8.png" alt="设备控制界面" style="width: 100%;">
+    <p align="center"><strong>设备控制界面</strong></p>
+  </div>
+</div>     
 
 ## 项目结构
 
