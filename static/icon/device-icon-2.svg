@@ -1,0 +1,19 @@
+<svg
+              v-if="device.type === 'heater'"
+              class="device-icon"
+              viewBox="0 0 48 48"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect x="4" y="14" width="40" height="22" rx="5" fill="#4FACFE" opacity="0.2"/>
+              <rect x="4" y="14" width="40" height="22" rx="5" stroke="#4FACFE" stroke-width="2.5"/>
+              <!-- 散热格栅 -->
+              <line x1="14" y1="14" x2="14" y2="36" stroke="#4FACFE" stroke-width="2" stroke-linecap="round"/>
+              <line x1="21" y1="14" x2="21" y2="36" stroke="#4FACFE" stroke-width="2" stroke-linecap="round"/>
+              <line x1="28" y1="14" x2="28" y2="36" stroke="#4FACFE" stroke-width="2" stroke-linecap="round"/>
+              <line x1="35" y1="14" x2="35" y2="36" stroke="#4FACFE" stroke-width="2" stroke-linecap="round"/>
+              <!-- 连接管 -->
+              <rect x="10" y="36" width="28" height="4" rx="2" fill="#4FACFE"/>
+              <circle cx="16" cy="11" r="3" fill="#00D2FF" opacity="0.8"/>
+              <circle cx="32" cy="11" r="3" fill="#00D2FF" opacity="0.8"/>
+            </svg>

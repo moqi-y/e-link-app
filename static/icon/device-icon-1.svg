@@ -1,0 +1,19 @@
+<svg
+              
+              viewBox="0 0 48 48"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <!-- 风扇叶片 -->
+              <path d="M24 24 C24 24 20 14 14 12 C10 11 8 15 10 18 C13 22 20 22 24 24Z" fill="#4FACFE" opacity="0.85"/>
+              <path d="M24 24 C24 24 34 28 38 34 C40 38 36 41 33 39 C29 36 27 29 24 24Z" fill="#4FACFE" opacity="0.85"/>
+              <path d="M24 24 C24 24 14 20 10 14 C8 10 12 8 15 10 C19 13 21 20 24 24Z" fill="#00D2FF" opacity="0.7"/>
+              <path d="M24 24 C24 24 28 34 34 38 C38 40 41 36 39 33 C36 29 29 27 24 24Z" fill="#00D2FF" opacity="0.7"/>
+              <path d="M24 24 C24 24 34 20 36 14 C37 10 33 8 30 10 C26 13 26 20 24 24Z" fill="#4FACFE" opacity="0.85"/>
+              <path d="M24 24 C24 24 14 28 12 34 C11 38 15 40 18 38 C22 36 22 29 24 24Z" fill="#4FACFE" opacity="0.85"/>
+              <!-- 中心圆 -->
+              <circle cx="24" cy="24" r="5" fill="white"/>
+              <circle cx="24" cy="24" r="3" fill="#4FACFE"/>
+              <!-- 外圆框 -->
+              <circle cx="24" cy="24" r="20" stroke="#4FACFE" stroke-width="2" stroke-dasharray="4 3" opacity="0.5"/>
+            </svg>
